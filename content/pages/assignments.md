@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines for a group embodiment exercise.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
